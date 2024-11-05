@@ -1,4 +1,4 @@
-Library Management System
+Library Management System<br>
 A Library Management System implemented in C, utilizing a dynamic linked list for infinite book storage. Features user authentication, book management (add, delete, search), and borrowing functionality with history tracking. Secure password storage with SHA-256. Future enhancements planned for improved usability.
 ```c
 
